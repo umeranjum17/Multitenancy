@@ -1,5 +1,6 @@
 # Multitenancy
  The purpose is to demonstrate the use of different database scheme using the same singular connection and verify the logs.
+# traces 
 Executing (default): SELECT "id", "username", "birthday", "createdAt", "updatedAt" FROM "zeeyarah"."users" AS "user";
 [
   user {
